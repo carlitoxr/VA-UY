@@ -1,0 +1,3 @@
+Ciudad		Zona		Num Lote	Vacuna	Cantidad de dosis
+Maldonado	Este		   99991		Viruela		7
+Tacuarembo	Norte		   99990		Viruela		1

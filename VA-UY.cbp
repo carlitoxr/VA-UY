@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="VA-UY" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/VA-UY" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/Carlos/Documents/Proyectos Codeblock/VA-UY/resource/include" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Users/Carlos/Documents/Proyectos Codeblock/VA-UY/resource/lib/libmysql.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/VA-UY" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="agenda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="agenda.h" />
+		<Unit filename="archivo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="conexion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="conexion.h" />
+		<Unit filename="grafo_v4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grafo_v4.h" />
+		<Unit filename="login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="login.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="paciente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="paciente.h" />
+		<Unit filename="pto_vac.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pto_vac.h" />
+		<Unit filename="vacuna.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vacuna.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1627836047 source:c:\users\carlos\documents\proyectos codeblock\va-uy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winsock.h>
+	<mysql.h>
+	"login.h"
+	"conexion.h"
+	"vacuna.h"
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\mysql_com.h
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\mysql_time.h
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\mysql_version.h
+	<custom_conf.h>
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\typelib.h
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\my_list.h
+
+1586635608 c:\users\carlos\documents\proyectos codeblock\va-uy\resource\include\my_alloc.h
+
+1625634464 c:\users\carlos\documents\proyectos codeblock\va-uy\login.h
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1625634577 c:\users\carlos\documents\proyectos codeblock\va-uy\conexion.h
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1627832862 source:c:\users\carlos\documents\proyectos codeblock\va-uy\conexion.c
+	<stdio.h>
+	<stdlib.h>
+	"conexion.h"
+
+1627833296 source:c:\users\carlos\documents\proyectos codeblock\va-uy\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conexion.h"
+
+1627835933 source:c:\users\carlos\documents\proyectos codeblock\va-uy\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacuna.h"
+	"conexion.h"
+
+1626880238 c:\users\carlos\documents\proyectos codeblock\va-uy\vacuna.h
+	<time.h>
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1632702880 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\conexion.c
+	<stdio.h>
+	<stdlib.h>
+	"conexion.h"
+
+1632699751 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\conexion.h
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1632702867 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conexion.h"
+
+1634438521 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winsock.h>
+	<mysql.h>
+	<time.h>
+	"login.h"
+	"conexion.h"
+	"vacuna.h"
+	"pto_vac.h"
+	"grafo_v4.h"
+	"agenda.h"
+	"paciente.h"
+
+1632690510 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\login.h
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1630977665 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\vacuna.h
+	<time.h>
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1632782201 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacuna.h"
+	"conexion.h"
+
+1632707855 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\grafo_v4.c
+	"grafo_v4.h"
+	"agenda.h"
+
+1632706190 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\grafo_v4.h
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632702778 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\pto_vac.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacuna.h"
+	"pto_vac.h"
+	"agenda.h"
+
+1628728176 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\pto_vac.h
+	"vacuna.h"
+
+1632707957 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\agenda.c
+	"agenda.h"
+
+1632703347 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\agenda.h
+	<time.h>
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+	<stdio.h>
+	"pto_vac.h"
+	"vacuna.h"
+	"paciente.h"
+	"grafo_v4.h"
+
+1632680981 c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\paciente.h
+	<windows.h>
+	<mysql.h>
+	<stdio.h>
+
+1632702811 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\archivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1632778562 source:c:\users\carlos\documents\proyectos codeblock\taller 1 2-08\va-uy\paciente.c
+	"paciente.h"
+

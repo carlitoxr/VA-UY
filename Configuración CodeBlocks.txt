@@ -1,0 +1,13 @@
+1) Clic derecho en el proyecto
+2) Build options
+3) Pestaña linker settings
+4) Add
+5) Buscar el archivo lib/libmysql.a en la ventana emergente darle NO
+6) OK
+
+7) Idem paso 1 y 2
+8) Pestaña search directories
+9) Add
+10) Buscar resource/include hacer clic en NO
+
+11) Poner el archivo libmysql.dll en <carpeta_proyecto>/bin/Debug
